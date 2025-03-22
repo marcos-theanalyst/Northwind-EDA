@@ -337,7 +337,3 @@ ORDER BY YEAR(orders.OrderDate);
 - There's a noticeable drop-off after the top 3 salespeople, indicating a possible training gap or uneven workload distribution.
 
 - Some employees are handling many smaller orders; others fewer but high-value ones
-
-## Conclusion
-
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
